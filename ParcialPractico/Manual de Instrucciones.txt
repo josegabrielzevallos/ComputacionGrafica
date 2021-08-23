@@ -1,0 +1,20 @@
+PARCIAL PRACTICO
+	
+CURSO: Computación Grafica
+GRUPO: CComp7-1
+NOMBRE DE AUTOR: Oscar Andree Mendoza Alejandro
+
+INSTRUCCIONES:
+
+Inicialmente el programa se ejecutará solo, mostrando los movimientos del cuadrado, rombo y estrella, 
+pero también hay un par de teclas que mostraran más a detalle algunos movimientos especiales:
+
+	-Tecla T: Al presionar esta tecla el triángulo del centro cambiara de escala a una 2.5 veces mas
+		  grande por lo que con esta tecla se puede comprobar que la figura triangulo cambia
+		  de tamaño (escala).
+	-Tecla C: Al presionar esta tecla el cuadrado comenzara a girar más rápido en el eje z, y se
+		  apreciara mejor el efecto de rotación.
+
+Con lo que respecta al rombo y a la estrella no se le asigno ninguna tecla en específico por el mismo
+hecho que estas se mueven solas a una determinada velocidad, mostrando lo que es el efecto de
+traslación.
